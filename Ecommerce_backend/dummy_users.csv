@@ -1,0 +1,11 @@
+_id,name,email,password,location,purchaseHistory,createdAt,updatedAt,__v
+68f4d6f4f178bbe8b96bc401,Muhammad Saad,saad@example.com,$2b$12$kh1GpdgVdBTsG5vwexZnHOGi31farEcgQLsXk7EBLb6aqKPncLDJy,Faisalabad,[],2025-10-23T12:17:56,2025-10-22T12:17:56,0
+68f4d6f4f178bbe8b96bc402,Ayesha Khan,ayesha@example.com,$2b$12$cba8.RITMHWbO.Wyhbvbt.TbweE8S6X91pEzEL4dgZSTdEW8pzbgK,Lahore,[],2025-10-23T12:17:56,2025-10-20T12:17:56,0
+68f4d6f4f178bbe8b96bc403,Ali Raza,ali@example.com,$2b$12$aTq5MAzXbhpRiyJ5X5uBMellZfLbmA7R.CKEbnG6F1DnOE1jm8xTa,Karachi,[],2025-10-19T12:17:56,2025-10-23T12:17:56,0
+68f4d6f4f178bbe8b96bc404,Fatima Noor,fatima@example.com,$2b$12$u/vWHcX0nr7IB0maxWGLpObaYHzud0DH8T0SWeR2rvSqO6okAa5bK,Islamabad,[],2025-10-21T12:17:56,2025-10-24T12:17:56,0
+68f4d6f4f178bbe8b96bc405,Hassan Ahmed,hassan@example.com,$2b$12$m73MO7aePQ9zpBN8UJT.QOwDxG/qG0j74G87AkhGcVnseJb6oJ.ta,Multan,[],2025-10-22T12:17:56,2025-10-24T12:17:56,0
+68f4d6f4f178bbe8b96bc406,Sara Malik,sara@example.com,$2b$12$KafkKqwUI4aH.V0HxvDPNuGZrX2Yp6jKEtwAtAWa3zWpxvmqUmhwO,Peshawar,[],2025-10-20T12:17:56,2025-10-20T12:17:56,0
+68f4d6f4f178bbe8b96bc407,Usman Tariq,usman@example.com,$2b$12$vraYAfDsJ9OPG1zBMl6Tt.vpQvgv8rccP283m36tO/DuM1RFzVNwG,Quetta,[],2025-10-19T12:17:56,2025-10-22T12:17:56,0
+68f4d6f4f178bbe8b96bc408,Zara Iqbal,zara@example.com,$2b$12$zSmhzWOBEEcmeB081V5dF.bbyYIUh48BPqXAjXe4cqKUI5w0soK8W,Rawalpindi,[],2025-10-22T12:17:56,2025-10-24T12:17:56,0
+68f4d6f4f178bbe8b96bc409,Bilal Hussain,bilal@example.com,$2b$12$LQSFMkciVaqmyVJWVAtIUuViqDNjic7qhJnFAGkmWNxV/TqFMnUPu,Sialkot,[],2025-10-19T12:17:56,2025-10-24T12:17:56,0
+68f4d6f4f178bbe8b96bc410,Hina Aslam,hina@example.com,$2b$12$Ya2ZTn8KOzZMgxyBMFjDO.V5Isf1GvkRnNf7RRZXXmlf7FYID1Ao2,Hyderabad,[],2025-10-24T12:17:56,2025-10-23T12:17:56,0
